@@ -2,5 +2,5 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-your text 
+"God is love"
 use the arrow to go back!
